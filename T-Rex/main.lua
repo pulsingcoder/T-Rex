@@ -1,3 +1,5 @@
+-- T-Rex Game........ 
+-- Sounds credit https://freesound.org
 push = require "push"
 Class = require "lib/class"
 require "src/Dino"
